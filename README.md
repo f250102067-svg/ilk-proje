@@ -1,0 +1,2 @@
+# ilk-proje
+başlangıç
